@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://bola88.netlify.com/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-04T10:52:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bola88.netlify.com/kebijakan-privasi</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-04T10:52:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bola88.netlify.com/cara-main-untuk-menang-di-situs-judi-online-bola88-indonesia-terpercaya</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-04T10:52:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bola88.netlify.com/apa-kata-orang-tentang-agen-bola-bola88</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-04T10:52:59Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bola88.netlify.com/bola88-agen-bola-yang-bisa-berikan-banyak-penghasilan</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-04T10:52:59Z</lastmod>
+  </url>
+</urlset>
